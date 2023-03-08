@@ -1,2 +1,2 @@
 def func():
-  reutrn 1
+  return 1
