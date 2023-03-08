@@ -1,5 +1,5 @@
 from dummy import func
 
 def handler(context, event):
-  val = dummy.func()
+  val = func()
   return "Hello World!!!"
